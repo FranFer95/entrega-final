@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Campera",
+      "price": 20.00,
+      "image": "./assets/campera.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jogger",
+      "price": 30.00,
+      "image": "./assets/jogger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jean",
+      "price": 50.00,
+      "image": "./assets/jean.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bermuda",
+      "price": 70.00,
+      "image": "./assets/bermuda.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Guantes",
+      "price": 40.00,
+      "image": "./assets/guantes.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Remera",
+      "price": 25.00,
+      "image": "./assets/basica-negra.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Buzo",
+      "price": 15.00,
+      "image": "./assets/buzo.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Boxer",
+      "price": 20.00,
+      "image": "./assets/boxer.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Camisa",
+      "price": 35.00,
+      "image": "./assets/camisa.png"
+    },
+    {
+      "id": 10,
+      "name": "Bermuda",
+      "price": 45.00,
+      "image": "./assets/bermuda.jpg"
+    }
+  ]
+  
